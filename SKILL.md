@@ -4,7 +4,7 @@ description: Evaluate the moral permissibility of actions that produce both good
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3857
+  version: 1.0.3858
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - double-effect-reasoning
